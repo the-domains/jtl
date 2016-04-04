@@ -1,0 +1,28 @@
+name: just thoughts on life
+favicon: null
+layout_spectrum: 0.18215442285872996
+typography_spectrum: 0.2178181738127023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.055428082356229424
+  lightness: 0.2811240036971867
+  saturation: 0.4767060980666429
+  rhythmicContrast: 0.9752635187469423
+purpose: []
